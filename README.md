@@ -56,7 +56,7 @@ Introduce `if` statements like this: `if (false);`.
 
 ### Variables
 
-Variables should be introduced as simply as possible. This means introducing just a declaration without initialization if the language supports it. Otherwise, variables should be initialized with the default value. In Javascript, this means the following is four steps:
+Variables should be introduced as simply as possible. This means introducing just a declaration without initialization if the language supports it. Otherwise, variables should be initialized with the default value. In Javascript, this means initializing the variable `x` to `3` is the following is three steps:
 
 ```javascript
 var x;
@@ -68,7 +68,7 @@ var x = 3;
 
 #### Strings
 
-Strings should be empty when inserted where possible. Strings shoudl be populated one unit of thought at a time after insertion.
+Strings should be empty when inserted where possible. Strings should be populated one unit of thought at a time after insertion.
 
 ### Comments
 
