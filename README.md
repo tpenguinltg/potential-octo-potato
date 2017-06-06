@@ -34,7 +34,7 @@ if (false) {
   x += 2;
 }
 
-if (true) {
+if (false) {
   x += 2;
   y;
 }
