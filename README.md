@@ -78,5 +78,9 @@ Strings should be empty when inserted where possible. Strings should be populate
 
 A comment introduced should only be roughly one unit of thought, which is often one sentence. Avoid building code in comments.
 
+### Files
+
+Files should be created empty whenever possible.
+
 (Project README should go below this line)
 * * *
