@@ -9,13 +9,15 @@ So what are you waiting for? Read the rules and send in a pull request today!
 
 You may only have at most one pull request active at a time (excluding pull requests for portions of the README above the horizontal line).
 
-Pull requests should consist of only a single commit containing a minimal change. A minimal change ideally does not change more than one line, including comments, possibly excluding blank lines for readability. For changes to the README (make them below the horizontal line), try to keep changes to one "unit of thought", which is often one sentence. Changes to the README above the horizontal line are exempt and can be as large as necessary.
+Pull requests should consist of only a single commit containing a minimal change. A minimal change ideally does not change more than one line, including comments, possibly excluding blank lines for readability. For changes to the README (make them below the horizontal line), try to keep changes to one "unit of thought", which is often one sentence. Changes to the README above the horizontal line are exempt and can be as large as necessary. The definition of a "minimal change" is decided by the project maintainers and they have the right to reject pull requests if they are too large.
+
+Unless the community decides on further restrictions, all pull requests that conform to the above format will be merged. Multiple pull requests that are ready for merging will be merged in ascending order of their IDs.
 
 A change should not break the build, so you will have to think about how to introduce your feature using only minimal changes while still being able to run the project.
 
 ### Minimal Change
 
-The following sections outline the general idea of a "minimal change". These examples are in JavaScript, but the concept should apply to any language and these examples should be updated when the language for the project has been decided.
+Although the definition is somewhat vague, the following sections will attempt to outline the general idea of a "minimal change". These examples are in JavaScript, but the concept should apply to any language and these examples should be updated when the language for the project has been decided.
 
 #### Control structures
 
