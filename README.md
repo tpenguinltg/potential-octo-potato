@@ -1,5 +1,4 @@
 # potential-octo-potato
-What would happen if we let developers decide?
 
 This project, named "potential-octo-potato" because that is what GitHub suggested, has no stated goals. You will decide what direction this project will take, choosing what it will do, what language to use, how the code will be formatted, the branching strategy, even right down to the license! Think of it like [/r/place](https://www.reddit.com/r/place/) but for GitHub. Make full use of issues and the wiki.
 
