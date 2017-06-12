@@ -1,6 +1,6 @@
 # potential-octo-potato
 
-This project, named "potential-octo-potato" because that is what GitHub suggested, has no stated goals. You will decide what direction this project will take, choosing what it will do, what language to use, how the code will be formatted, the branching strategy, even right down to the license! Think of it like [/r/place](https://www.reddit.com/r/place/) but for GitHub. Make full use of issues and the wiki.
+This project, named "potential-octo-potato" because that is what GitHub suggested, has no stated goals. You will decide what direction this project will take, choosing what it will do, what language to use, how the code will be formatted, even the branching strategy! Think of it like [/r/place](https://www.reddit.com/r/place/) but for GitHub. Make full use of issues and the wiki.
 
 So what are you waiting for? Read the rules and send in a pull request today!
 
